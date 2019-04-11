@@ -6,35 +6,33 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Apr 2019 20:25:11 -0600</pubDate>
-    <lastBuildDate>Tue, 09 Apr 2019 20:25:11 -0600</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+    <pubDate>Wed, 10 Apr 2019 19:15:03 -0600</pubDate>
+    <lastBuildDate>Wed, 10 Apr 2019 19:15:03 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Make some sketches</title>
-        <description>&lt;p&gt;Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi&lt;/p&gt;
+        <description>&lt;h1 id=&quot;big-header&quot;&gt;Big Header&lt;/h1&gt;
 
-&lt;p&gt;Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id&lt;/p&gt;
+&lt;p&gt;lots of subtext&lt;/p&gt;
 
-&lt;p&gt;Esse labore voluptate &lt;a href=&quot;#&quot;&gt;nam dolorum veniam&lt;/a&gt; numquam et reiciendis qui itaque voluptas odit dicta et. est ullam et omnis repellat qui aliquam delectus quod aperiam quam tenetur odit illo voluptatem. optio tenetur occaecati autem vel occaecati voluptas iste sunt libero quo est ex eum. aut molestiae ea est inventore aut quia ab voluptatem hic iste&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Provident nihil sint ducimus quasi dignissimos vero esse quisquam Asperiores beatae facere eos corrupti ut autem natus quis cumque dolor.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;this-is-a-sub-heading&quot;&gt;This is a sub-heading&lt;/h4&gt;
-
-&lt;p&gt;Aut ea rem repudiandae tempore perferendis. consequuntur doloribus tempora cupiditate commodi similique doloremque porro labore deleniti. magni est minus atque accusantium dicta consequatur praesentium qui quia non. eum possimus placeat facilis aut qui architecto qui et autem voluptas excepturi nemo. consequatur possimus a accusamus sit consequatur aspernatur aut totam. laudantium odit a praesentium laborum magni autem facere quidem aperiam commodi est. dolore debitis doloremque ea impedit&lt;/p&gt;
+&lt;h2 id=&quot;subheader&quot;&gt;subheader&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Tempora commodi quia deserunt porro excepturi&lt;/li&gt;
-  &lt;li&gt;Placeat in quae tempore pariatur sit aut qui nemo&lt;/li&gt;
-  &lt;li&gt;Rem quod sequi nobis possimus sequi dolorem est ab&lt;/li&gt;
+  &lt;li&gt;bullet point 1&lt;/li&gt;
+  &lt;li&gt;bullet point 2&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;this-is-a-small-title&quot;&gt;This is a small title&lt;/h5&gt;
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/3og0IF8yIrms4eUexG/giphy.gif&quot; alt=&quot;bad giphy meme&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
+&lt;h3 id=&quot;header-three&quot;&gt;header three&lt;/h3&gt;
+
+&lt;p&gt;maybe you want a soundcloud embed?&lt;/p&gt;
+
+&lt;p&gt;you can put straight html into markdown with no worries
+(although it may not render unless from a website)&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;600&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/591292170&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 14 Apr 2015 04:58:12 -0600</pubDate>
         <link>http://localhost:4000/logo/development/2015/04/14/make-some-sketches.html</link>

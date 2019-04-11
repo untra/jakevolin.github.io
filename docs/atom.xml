@@ -4,10 +4,10 @@
  <title>Jake Volin</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-04-09T20:25:11-06:00</updated>
+ <updated>2019-04-10T19:15:03-06:00</updated>
  <author>
-   <name></name>
-   <uri></uri>
+   <name>Jake Volin</name>
+   <uri>https://jakevolin.com</uri>
    <email></email>
  </author>
 
@@ -18,7 +18,7 @@
    <link href="http://localhost:4000/logo/development/2015/04/14/make-some-sketches.html"/>
    <id>http://localhost:4000/logo/development/2015/04/14/make-some-sketches</id>
    <updated>2015-04-14T04:58:12-06:00</updated>
-   <content type="html">&lt;p&gt;Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi&lt;/p&gt;...</content>
+   <content type="html">&lt;h1 id=&quot;big-header&quot;&gt;Big Header&lt;/h1&gt; &lt;p&gt;lots of subtext&lt;/p&gt; &lt;h2 id=&quot;subheader&quot;&gt;subheader&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;bullet point 1&lt;/li&gt; &lt;li&gt;bullet point 2&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/3og0IF8yIrms4eUexG/giphy.gif&quot; alt=&quot;bad giphy meme&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;header-three&quot;&gt;header three&lt;/h3&gt; &lt;p&gt;maybe you want a soundcloud embed?&lt;/p&gt; &lt;p&gt;you can put straight html into markdown with no worries (although it may not render unless from a website)&lt;/p&gt;...</content>
  </entry>
 
  
