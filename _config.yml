@@ -5,7 +5,7 @@
 
 # Site settings
 title: Jake Volin
-email: ''
+email: ""
 description: > # this means to ignore newlines until ''baseurl:''
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,13 +14,13 @@ url: https://jakevolin.com
 # atom.xml feed configuration
 author:
   name: Jake Volin
-  email: ''
+  email: ""
   url: https://jakevolin.com
 # the subpath of your site, e.g. /blog/
-baseurl: ''
+baseurl: ""
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jakevolin
-github_username:  jakevolin
+github_username: jakevolin
 
 # Build settings
 markdown: kramdown
@@ -36,8 +36,8 @@ collections:
   - podcasts
 
 # Google Analytics
-ga_id: '138037311'
-ga_domain: 'auto'
+ga_id: "UA-138037311-1"
+ga_domain: "auto"
 
 # Keywords are strings that influence the search algorithms
 keywords:
