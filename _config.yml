@@ -18,7 +18,6 @@ author:
   url: https://jakevolin.com
 # the subpath of your site, e.g. /blog/
 baseurl: ""
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jakevolin
 github_username: jakevolin
 
