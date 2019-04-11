@@ -38,6 +38,12 @@ collections:
 ga_id: "UA-138037311-1"
 ga_domain: "auto"
 
+#
+contact:
+  phone: 720-555-5555
+  email: fake@email.com
+  location: Denver Colorado
+
 # Keywords are strings that influence the search algorithms
 keywords:
   - Jake
