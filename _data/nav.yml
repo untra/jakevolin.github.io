@@ -4,17 +4,14 @@
 - name: About
   path: about.html
   section_id: about
-- name: MY NAME
-  path: MY NAME.html
-  section_id: MY NAME
-- name: Portfolio
-  path: portfolio.html
-  section_id: portfolio
+- name: Podcast
+  path: podcast.html
+  section_id: podcast
   children:
-    - name: Portfolio
-      path: portfolio.html
-    - name: Portfolio item
-      path: portfolio-item.html
+    - name: the JV podcast
+      path: podcast.html
+    - name: interviews
+      path: podcast-interviews.html
 - name: Contact
   path: contact.html
   section_id: contact

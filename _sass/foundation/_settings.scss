@@ -1393,11 +1393,11 @@ $topbar-height: rem-calc(100);
 // $topbar-title-font-size: rem-calc(17);
 
 // Set the link colors and styles for top-level nav
-$topbar-link-color: #999;
-$topbar-link-color-hover: #888;
-$topbar-link-color-active: #888;
-$topbar-link-color-active-hover: #888;
-// $topbar-link-weight: $font-weight-normal;
+$topbar-link-color: #444;
+$topbar-link-color-hover: #222;
+$topbar-link-color-active: #222;
+$topbar-link-color-active-hover: #222;
+$topbar-link-weight: bold;
 $topbar-link-font-size: rem-calc(14);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
